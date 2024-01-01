@@ -1,2 +1,2 @@
 # 100days_python
-I'm learning Python 100 Days in 2024
+Day 1: The journey begins. I've set up my development environment, installed Python, and written my first line of code: `print("Hello, Python!")`
